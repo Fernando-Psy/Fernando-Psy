@@ -9,7 +9,7 @@
 ## Habilidades
 - *Linguagens*: Python, JavaScript
 - *Frameworks*: Django, Flask, React
-- *Ferramentas*: Git, Docker, SQL, AWS
+- *Ferramentas*: Git, PostgreSQL, AWS
 
 ## Projetos Destacados
 - [Boas práticas em CSS](https://github.com/Fernando-Psy/BEM.git) - Boas prátcas de CSS utilizando a metodologia BEM (Block Element Modifer).
