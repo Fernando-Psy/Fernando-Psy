@@ -12,8 +12,8 @@
 - *Ferramentas*: Git, Docker, SQL, AWS
 
 ## Projetos Destacados
-- [Projeto 1](link) - Descrição breve.
-- [Projeto 2](link) - Descrição breve.
+- [Boas práticas em CSS](https://github.com/Fernando-Psy/BEM.git) - Boas prátcas de CSS utilizando a metodologia BEM (Block Element Modifer).
+<!--- [Projeto 2](link) - Descrição breve.-->
 
 ## Contato
 - 📧 Email: fernando.cbj.tec@gmail.com
