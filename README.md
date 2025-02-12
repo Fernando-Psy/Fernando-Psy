@@ -13,7 +13,7 @@
 
 ## Projetos Destacados
 - [Boas práticas em CSS](https://github.com/Fernando-Psy/BEM.git) - Boas prátcas de CSS utilizando a metodologia BEM (Block Element Modifer).
-<!--- [Projeto 2](link) - Descrição breve.-->
+- [Previsão do tempo](https://github.com/Fernando-Psy/previsao_do_tempo.git) - Projeto simples para previsão do tempo, consumindo API OpenWeatherMap.
 
 ## Contato
 - 📧 Email: fernando.cbj.tec@gmail.com
