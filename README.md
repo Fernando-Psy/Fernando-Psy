@@ -3,6 +3,7 @@
 ## Sobre Mim
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas - FASUL(2º período).
 - 🎓 Formando em Desenvolvimento Full Stack Python pela EBAC.
+- 🧠 Psicólogo com especialização em Saúde Mental, Antropologia e Psicologia Existencial.
 - 🚀 Curso Impulso React Web Developer pela DIO.
 - 🐍 Formação Python Backend Developer pela DIO.
 - 💻 Apaixonado por desenvolvimento de software e soluções inovadoras.
