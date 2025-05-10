@@ -1,6 +1,7 @@
 # Olá, eu sou Fernando Cesar! 👋
 
 ## Sobre Mim
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas - FASUL(2º período).
 - 🎓 Formando em Desenvolvimento Full Stack Python pela EBAC.
 - 🚀 Curso Impulso React Web Developer pela DIO.
 - 🐍 Formação Python Backend Developer pela DIO.
