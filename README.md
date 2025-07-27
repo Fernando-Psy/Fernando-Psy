@@ -1,7 +1,7 @@
 # Olá, eu sou Fernando Cesar! 👋
 
 ## Sobre Mim
-- 🎓 Graduando em Ciência da Computação - FOCUS (1º período)
+- 🎓 Graduando em Ciência da Computação - ESTACIO (1º período)
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas - FASUL (2º período)
 - 🎓 Formando em Desenvolvimento Full Stack Python pela EBAC
 - 🧠 Psicólogo com especialização em Saúde Mental, Antropologia e Psicologia Existencial
