@@ -6,7 +6,7 @@
 - 🎓 Formando em Desenvolvimento Full Stack Python pela EBAC
 - 🧠 Psicólogo com especialização em Saúde Mental, Antropologia e Psicologia Existencial
 - 💻 Grande interesse por desenvolvimento de software e soluções inovadoras
-- 📖 **Acadêmico**: [Grade de Estudos Atual](grade-estudos.md)
+- 📖 *Acadêmico*: [Grade de Estudos Atual](grade-estudos.md)
 
 ## Formação e Cursos
 ### 🎓 Educação Formal
