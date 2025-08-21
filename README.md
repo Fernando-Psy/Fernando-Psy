@@ -51,7 +51,7 @@
 - 📧 **Email**: fernando.cbj.tec@gmail.com
 - 🔗 **LinkedIn**: [Fernando Cesar B. Junior](https://br.linkedin.com/in/fernando-cesar-botelho-junior)
 - 🌐 **Portfólio**: [FCTEC](https://fctec.dev.com)
-- 📖 Veja minha [Grade de Estudos](./grade-estudos.md)
+- 📖 **Acadêmico** [Grade de Estudos](grade-estudos)
 
 
 ## Estatísticas do GitHub
