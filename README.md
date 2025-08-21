@@ -6,6 +6,7 @@
 - 🎓 Formando em Desenvolvimento Full Stack Python pela EBAC
 - 🧠 Psicólogo com especialização em Saúde Mental, Antropologia e Psicologia Existencial
 - 💻 Grande interesse por desenvolvimento de software e soluções inovadoras
+- 📖 **Acadêmico**: [Grade de Estudos Atual](grade-estudos.md)
 
 ## Formação e Cursos
 ### 🎓 Educação Formal
@@ -51,7 +52,6 @@
 - 📧 **Email**: fernando.cbj.tec@gmail.com
 - 🔗 **LinkedIn**: [Fernando Cesar B. Junior](https://br.linkedin.com/in/fernando-cesar-botelho-junior)
 - 🌐 **Portfólio**: [FCTEC](https://fctec.dev.com)
-- 📖 **Acadêmico**: [Grade de Estudos](grade-estudos.md)
 
 
 ## Estatísticas do GitHub
