@@ -59,7 +59,8 @@
 ### **Sábado**
 - **07h – 09h:** EBAC – Prática  
 - **09h – 11h:** Revisão geral de Estácio ou Fasul  
-- **11h – 14h:** DIO – Inglês + estudos leves da pós (Focus)  
+- **11h – 14h:** DIO – Inglês + estudos leves da pós (Focus)
+- **14h - :** Lazer 
 
 ---
 
