@@ -7,7 +7,7 @@
 - 🧠 Psicólogo com especialização em Saúde Mental, Antropologia e Psicologia Existencial
 - 💻 Grande interesse por desenvolvimento de software e soluções inovadoras
 - 📖 *Acadêmico*: [Grade de Estudos Atual](grade-estudos.md)
-- 🛡️ *Segurança* : [Segurança do npm] (SECURITY.md).
+- 🛡️ *Segurança* : [Segurança do npm](seguranca/SECURITY.md)
 
 ## Formação e Cursos
 ### 🎓 Educação Formal
