@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 - 🎓 Graduando em Ciência da Computação - ESTACIO (1º período)
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas - FASUL (2º período)
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas - FASUL (3º período)
 - 🎓 Formando em Desenvolvimento Full Stack Python pela EBAC
 - 🧠 Psicólogo com especialização em Saúde Mental, Antropologia e Psicologia Existencial
 - 💻 Grande interesse por desenvolvimento de software e soluções inovadoras
@@ -11,7 +11,7 @@
 
 ## Formação e Cursos
 ### 🎓 Educação Formal
-- **Análise e Desenvolvimento de Sistemas** - FASUL (2º período)
+- **Análise e Desenvolvimento de Sistemas** - FASUL (3º período)
 - **Psicologia** - Graduação completa
 
 ### 📚 Cursos e Especializações
