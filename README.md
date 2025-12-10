@@ -3,7 +3,7 @@
 ## Sobre Mim
 - 🎓 Graduando em Ciência da Computação - ESTACIO (1º período)
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas - FASUL (3º período)
-- 🎓 Formando em Desenvolvimento Full Stack Python pela EBAC
+- 🎓 Formado em Desenvolvimento Full Stack Python pela EBAC
 - 🧠 Psicólogo com especialização em Saúde Mental, Antropologia e Psicologia Existencial
 - 💻 Grande interesse por desenvolvimento de software e soluções inovadoras
 - 📖 *Acadêmico*: [Grade de Estudos Atual](grade-estudos.md)
@@ -16,7 +16,7 @@
 
 ### 📚 Cursos e Especializações
 **EBAC (Escola Britânica de Artes Criativas e Tecnologia)**
-- 🐍 Desenvolvimento Full Stack Python (em andamento)
+- 🐍 Desenvolvimento Full Stack Python
 - 💡 Introdução à Programação
 - 🎯 Plano de Carreira
 
