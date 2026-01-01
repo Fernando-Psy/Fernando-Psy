@@ -1,9 +1,9 @@
 # Olá, eu sou Fernando Cesar! 👋
 
 ## Sobre Mim
-- 🎓 Graduando em Ciência da Computação - ESTACIO (1º período)
+- 🎓 Graduando em Ciência da Computação - ESTACIO (2º período)
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas - FASUL (3º período)
-- 🎓 Formado em Desenvolvimento Full Stack Python pela EBAC
+- 🎓 Curso em Desenvolvimento Full Stack Python pela EBAC
 - 🧠 Psicólogo com especialização em Saúde Mental, Antropologia e Psicologia Existencial
 - 💻 Grande interesse por desenvolvimento de software e soluções inovadoras
 - 📖 *Acadêmico*: [Grade de Estudos Atual](grade-estudos.md)
@@ -11,6 +11,7 @@
 
 ## Formação e Cursos
 ### 🎓 Educação Formal
+- **Ciência da Computação** - ESTACIO (2º período)
 - **Análise e Desenvolvimento de Sistemas** - FASUL (3º período)
 - **Psicologia** - Graduação completa
 
@@ -25,9 +26,9 @@
 - 🐍 Formação Python Backend Developer
 
 **Especializações em Psicologia**
-- 🧠 Saúde Mental
-- 🌍 Antropologia
-- 💭 Psicologia Existencial
+- 🧠 Saúde Mental e Atenção Psicossocial
+- 🌍 Antropologia Social e Cultural
+- 💭 Psicologia Existencial Fenomenológica e Humanista
 
 ## Habilidades Técnicas
 ### 💻 Linguagens de Programação
